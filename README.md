@@ -10,7 +10,7 @@
 
 ![Main Page 1](https://user-images.githubusercontent.com/70959898/217818227-7c9a5666-1478-45cf-a0b6-08c0db49528a.PNG)
 
-## Создание Игрока:
+## Создание игрока:
 
 
 ![Create Player 1](https://user-images.githubusercontent.com/70959898/217817002-fe362a0e-ec6e-48b8-8ce9-2ede5ea60bde.PNG)
@@ -33,3 +33,5 @@
 
 ![Update Hero 1](https://user-images.githubusercontent.com/70959898/217817071-211c6eb0-82eb-465f-8013-0c2fe5cee84d.PNG)
 ![Update Hero 2](https://user-images.githubusercontent.com/70959898/217817077-76cd9a05-1672-46a8-a8ef-afaa557a1423.PNG)
+
+Также в лабораторной работе возможно и удаление отдельного игрока(к которому не прикреплен герой), героя, игрока с его героями вместе(когда удаляешь игрока, то удаляется сам игрок и все его герои).
